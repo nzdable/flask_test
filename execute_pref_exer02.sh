@@ -1,0 +1,1 @@
+cat flask_site/flask_site.py flask_site/templates/*.html > output2.txt
